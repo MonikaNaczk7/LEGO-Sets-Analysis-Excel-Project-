@@ -33,3 +33,16 @@ The analysis was entirely performed in **Microsoft Excel** using **Pivot Tables*
 ---
 
 ## 📁 Repository Structure  
+
+
+---
+
+## 💡 Conclusions  
+This project demonstrates that even with a simple tool like **Excel**, it’s possible to uncover deep insights from complex datasets.  
+Pivot Tables and Filters remain one of the most powerful and accessible ways to explore data — no coding required.  
+
+---
+
+## 🏷️ Tags  
+`#Excel` `#DataAnalysis` `#LEGO` `#Visualization` `#Analytics` `#LearningByDoing`
+
